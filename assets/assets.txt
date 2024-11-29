@@ -1,0 +1,9 @@
+backgrounds/gameover.png
+backgrounds/level1.png
+backgrounds/level2.png
+backgrounds/menu.png
+backgrounds/pause.png
+libgdx.png
+sounds/background.mp3
+sounds/eat.wav
+sounds/gameover.wav
