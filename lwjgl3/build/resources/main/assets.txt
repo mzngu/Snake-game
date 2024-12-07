@@ -1,8 +1,11 @@
 backgrounds/gameover.png
+backgrounds/highscore.png
 backgrounds/level1.png
 backgrounds/level2.png
+backgrounds/level3.png
 backgrounds/menu.png
 backgrounds/pause.png
+highscore.dat
 libgdx.png
 sounds/background.mp3
 sounds/eat.wav

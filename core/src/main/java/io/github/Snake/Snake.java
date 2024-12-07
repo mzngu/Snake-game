@@ -53,7 +53,7 @@ public class Snake {
         body.insert(0, newHead);
 
         if (!growing) {
-            body.pop(); // Rmv tail if not growing
+            body.pop();
         } else {
             growing = false;
         }
